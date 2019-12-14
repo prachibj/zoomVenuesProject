@@ -1,0 +1,51 @@
+.teamMembersTitle{
+  color: white;
+  background-color: purple;
+  font-weight: bolder;
+  padding: 5%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.userCardTitle{
+  padding: 1%;
+  border-style: outset;
+  /* display: flex; */
+}
+
+.imgClass{
+  width: 3%;
+  /* right: 4%; */
+  /* bottom: 40%; */
+  left: 2%;
+  top: 2%;
+}
+
+.addressField{
+  text-align: end;
+  background-color: #c5cbd1;
+}
+
+.arrow{
+  text-align: end;
+}
+
+.searchBar {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+
+
+.searchBar a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+.searchBar input[type=text] {
+  /* float: right; */
+  margin: 1%;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  border: none;
+  font-size: 17px;
+}
